@@ -1,47 +1,19 @@
 # curso-js
-Exercícios Javascript, curso em vídeo
+#Exercícios Javascript, curso em vídeo
 
-##Aula 2
+##Módulo A
 
-### Conceito de Cliente x Servidor
+###Aula 01 - O que o Javascript é capaz de fazer?
 
-### Cliente
+###Aula 02 - Como chegamos até aqui?
 
-Cliente é o lado da  arquitetura web faz a requisição da informação acessada através de dispositivos como celulares , notebooks e desktops
+###Aula 03 - Dando os primeiros passos
 
-### Navegador
+###Aula 04 - Criando seu primeiro Script
 
-é um programa que habilita seus usuários a interagirem com documentos HTML hospedados em um servidor.
+##Módulo B
 
-### Servidores
+###Aula 05 -  Variáveis e tipos de dados
 
-Maquina de alta performace que fornece arquivos a diversos clientes, sendo eles fotos , textos , vídeos. 
+###Aula 06 - Tratamento de dados
 
-Quando um cliente solicita um arquivo a um servidor ele te envia uma cópia.
-
-## Javascript é uma tecnologia client side.
-
-- Javascript funciona muito mais do lado do cliente, e surgiu basicamente para clientes.
-- Porém funciona nos servidores.
-
-## Tecnologias que o acompanham o cliente
-
-- HTML - Conteúdo
-- CSS - Design
-- Javascript - Interatividade
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4eb12d43-84c8-4e05-9473-84b4bc7cdc79/Untitled.png)
-
-## Mão na massa
-
-- Mundando a cor de fundo do site do google;
-
-```jsx
-document.body.style.background = 'yellow'
-```
-
-- Mudando a notícia do site do g1;
-
-```jsx
-document.querySelector('span.bstn-hl-title').innerText = 'Victor Yohan se torna o ministro da ciência e tecnologia'
-```
